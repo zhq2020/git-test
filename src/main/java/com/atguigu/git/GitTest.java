@@ -21,5 +21,6 @@ public class GitTest {
         System.out.println("修改了快捷方式");
         System.out.println("修改了快捷方式2");
         System.out.println("pull test");
+        System.out.println("Github项目更新了");
     }
 }
